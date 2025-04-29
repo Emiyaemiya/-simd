@@ -20,4 +20,4 @@ int main()
         cout << std::setw(8) << std::setfill('0') << hex << state[i1];
     }
     cout << endl;
-}//bba46eb8b53cf65d50ca54b2f8afd9db
+}
